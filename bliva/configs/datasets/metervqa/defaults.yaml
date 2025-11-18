@@ -1,0 +1,6 @@
+datasets:
+  metervqa:
+    data_type: images
+    build_info:
+      storage: /rydata/wengchaoliu/BLIVA/bliva/data/
+      vis_root: /rydata/wengchaoliu/BLIVA/bliva/data/img_correct/

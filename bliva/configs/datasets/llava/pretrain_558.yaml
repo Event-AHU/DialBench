@@ -1,0 +1,7 @@
+datasets:
+  llava_pretrain:
+    data_type: images
+    build_info:
+      storage: /rydata/wengchaoliu/BLIVA/bliva/data/blip_laion_cc_sbu_558k
+      vis_root: /rydata/wengchaoliu/BLIVA/bliva/data/blip_laion_cc_sbu_558k/images
+      #ann_paths: /rydata/wengchaoliu/BLIVA/bliva/data/blip_laion_cc_sbu_558k/annotations/blip_laion_cc_sbu_558k.json

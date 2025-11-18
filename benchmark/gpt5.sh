@@ -1,0 +1,11 @@
+python gpt5_evaluate_copy.py \
+  --data_path /rydata/wengchaoliu/BLIVA/bliva/data/gpt5.json \
+  --image_prefix /rydata/wengchaoliu/BLIVA/bliva/data/img_correct \
+  --save_path ./bad_cases \
+  --responses_json ./responses_gpt5.json \
+  --api_base https://api.qingyuntop.top/v1 \
+  --openai_api_key xx \
+  --model gpt-5-2025-08-07 \
+  --batch_size 4 \
+  --max_tokens 2048 \
+  --temperature 0.0

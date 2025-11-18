@@ -1,0 +1,11 @@
+python gpt5_evaluate_copy.py \
+  --data_path /rydata/wengchaoliu/BLIVA/bliva/data/gpt5.json \
+  --image_prefix /rydata/wengchaoliu/BLIVA/bliva/data/img_correct \
+  --save_path ./bad_cases \
+  --responses_json ./responses_gemini.json \
+  --api_base https://api.qingyuntop.top/v1 \
+  --openai_api_key sk-W8YZaEnvaO32dqA6VO8tB9KKAJnvt6d2jFeV5HuLN80bgLxb \
+  --model gemini-2.5-pro \
+  --batch_size 4 \
+  --max_tokens 2048 \
+  --temperature 0.0

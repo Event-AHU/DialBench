@@ -1,0 +1,6 @@
+datasets:
+  metervqa_test:
+    data_type: images
+    build_info:
+      storage: /rydata/wengchaoliu/BLIVA/bliva/data/meter-vqa
+      vis_root: /rydata/wengchaoliu/BLIVA/bliva/data/meter-vqa/img

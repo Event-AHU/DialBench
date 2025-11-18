@@ -151,7 +151,7 @@ class BLIVAVicuna(Blip2Base):
     def forward(self, samples):
         image = samples["image"]
         
-        #scale_line_tensor = torch.load("/rydata/wengchaoliu/BLIVA/multi_example_img_3.pt").to(image.device)
+        #scale_line_tensor = torch.load("/rydata/wengchaoliu/BLIVA/multi_example_img_6.pt").to(image.device)
         image_features = self.visual_encoder.get_intermediate_layers(image)
         #expanded_scale_line_tensor = scale_line_tensor.expand(image_features[0].shape[0], -1, -1)
         multi_image_features = torch.cat([image_features[13], image_features[26],image_features[38]], dim=2)
@@ -348,7 +348,7 @@ class BLIVAVicuna(Blip2Base):
             # Single image processing logic, now aligned with the `forward` method
             with self.maybe_autocast():
                 # --- Start: Replicated Feature Extraction from `forward` method ---
-                #scale_line_tensor = torch.load("/rydata/wengchaoliu/BLIVA/multi_example_img_3.pt").to(image.device)
+                #scale_line_tensor = torch.load("/rydata/wengchaoliu/BLIVA/multi_example_img_6.pt").to(image.device)
                 image_features = self.visual_encoder.get_intermediate_layers(image)
                 
                 # Expand tensor to match batch size

@@ -13,9 +13,9 @@
 
 ## ✨ Highlights
 
--   ✅ **RPM-10K**: large-scale pointer meter reading dataset\
--   ✅ **DialBench**: evaluation benchmark for large foundation models\
--   ✅ Simple and strong multimodal baseline for pointer meter reading\
+-   ✅ **RPM-10K**: large-scale pointer meter reading dataset
+-   ✅ **DialBench**: evaluation benchmark for large foundation models
+-   ✅ Simple and strong multimodal baseline for pointer meter reading
 
 ------------------------------------------------------------------------
 
@@ -23,10 +23,10 @@
 
 **RPM-10K** is designed for accurate and robust pointer meter reading.
 
--   **Scale**: 10,000 images\
--   **Focus**: diverse real-world pointer meters\
+-   **Scale**: 10,000 images
+-   **Focus**: diverse real-world pointer meters
 
-> 你可以在这里继续补充：数据结构、下载方式、标注格式、示例图等。
+We release the data of RPM-10K: (https://huggingface.co/datasets/gasolsun/RPM_10k)
 
 ------------------------------------------------------------------------
 
@@ -45,18 +45,6 @@ Features:
 ## 🧩 Model Zoo / Weights
 
 -   **Our Model Weights (TBD)**: `()`\
-    \> 发布后将括号替换为真实链接（HuggingFace / Google Drive /
-    ModelScope 等）
-
-------------------------------------------------------------------------
-
-## 📊 Experimental Results
-
-### Pointer Meter Reading on \*\*`\datasetname*`{=tex}\*
-
-> † denotes closed-source visual language models.
-
-(LaTeX table unchanged---GitHub will render as code block.)
 
 ------------------------------------------------------------------------
 
@@ -129,15 +117,15 @@ If you find DialBench useful:
 
 ## 🙏 Acknowledgements
 
--   BLIVA\
--   BLIP-2\
--   LAVIS\
+-   BLIVA
+-   BLIP-2
+-   LAVIS
 -   All open-source contributors
 
 ------------------------------------------------------------------------
 
 ## 📄 License
 
--   Code: **BSD 3-Clause License**\
--   Dataset: **TBD**\
+-   Code: **BSD 3-Clause License**
+-   Dataset: **TBD**
 -   Model weights: **TBD**

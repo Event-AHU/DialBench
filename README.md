@@ -4,10 +4,8 @@
 
 ## 🔥 Release
 
--   **\[2025/xx/xx\]** DialBench project initialized and code released\
--   **\[2025/xx/xx\]** **RPM-10K dataset** & **DialBench benchmark**
-    released\
--   **\[TBD\]** Model weights coming soon
+-   **\[2025/11/26\]** **RPM-10K dataset** & **DialBench benchmark** coming soon
+-   **\[2025/11/26\]** Model weights coming soon
 
 ------------------------------------------------------------------------
 

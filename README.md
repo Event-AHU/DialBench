@@ -21,10 +21,8 @@
 
 **RPM-10K** is designed for accurate and robust pointer meter reading.
 
--   **Scale**: 10,000 images
+-   **Scale**: 10,730 images
 -   **Focus**: diverse real-world pointer meters
-
-We release the data of RPM-10K: (https://huggingface.co/datasets/gasolsun/RPM_10k)
 
 ------------------------------------------------------------------------
 

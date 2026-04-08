@@ -4,7 +4,9 @@
 
 ## 🔥 Release
 
--   **\[2025/11/26\]** **RPM-10K dataset** & **DialBench benchmark** coming soon
+-   **[2026/04/08] RPM-10K dataset is now publicly available at Google Drive.**
+[https://drive.google.com/drive/folders/1uw2FkX89XZseDcw_P-BSP-_AYZP5-W10?usp=sharing](https://drive.google.com/drive/folders/1uw2FkX89XZseDcw_P-BSP-_AYZP5-W10?usp=sharing)
+
 -   **\[2025/11/26\]** Model weights coming soon
 
 ------------------------------------------------------------------------

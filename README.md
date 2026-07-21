@@ -101,13 +101,11 @@ bash test.sh
 If you find DialBench useful:
 
 ``` bibtex
-@misc{your2025dialbench,
+@article{wang2025dialbench,
   title={DialBench: Towards Accurate Reading Recognition of Pointer Meter using Large Foundation Models},
-  author={Your Name and ...},
-  year={2025},
-  eprint={xxxx.xxxxx},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+  author={Wang, Futian and Weng, Chaoliu and Wang, Xiao and Chen, Zhen and Zhao, Zhicheng and Tang, Jin},
+  journal={arXiv preprint arXiv:2511.21982},
+  year={2025}
 }
 ```
 

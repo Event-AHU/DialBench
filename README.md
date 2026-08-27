@@ -2,7 +2,11 @@
 
 ------------------------------------------------------------------------
 
+
+
 ## 🔥 Release
+
+- [2026/08/27] **RPM-10K dataset can also be downloaded from** [[**Dropbox**](https://www.dropbox.com/scl/fi/g9xwiur8ew34iovu8qsat/RPM-10K.zip?rlkey=n9d6yltokbt5fofq48lza1zns&st=gycdq03k&dl=0)] 
 
 -   **[2026/04/08] RPM-10K dataset is now publicly available at Baidu Netdisk.**
 [https://pan.baidu.com/s/17TGCwMqBx2KHdcZKgrpR0Q?pwd=r2a6]
@@ -10,6 +14,8 @@
 -   **\[2026/07/21] Model weights is now publicly available.**
 [https://pan.baidu.com/s/1abzTBOimkcuqmJZrChhJrg?pwd=64md]
 ------------------------------------------------------------------------
+
+
 
 ## ✨ Highlights
 
@@ -25,6 +31,8 @@
 
 -   **Scale**: 10,730 images
 -   **Focus**: diverse real-world pointer meters
+
+- Download the dataset from [[Dropbox](https://www.dropbox.com/scl/fi/g9xwiur8ew34iovu8qsat/RPM-10K.zip?rlkey=n9d6yltokbt5fofq48lza1zns&st=gycdq03k&dl=0)] 
 
 ------------------------------------------------------------------------
 

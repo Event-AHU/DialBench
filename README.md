@@ -4,8 +4,8 @@
 
 ## 🔥 Release
 
--   **[2026/04/08] RPM-10K dataset is now publicly available at Google Drive.**
-[https://drive.google.com/drive/folders/1uw2FkX89XZseDcw_P-BSP-_AYZP5-W10?usp=sharing](https://drive.google.com/drive/folders/1uw2FkX89XZseDcw_P-BSP-_AYZP5-W10?usp=sharing)
+-   **[2026/04/08] RPM-10K dataset is now publicly available at Baidu Netdisk.**
+[https://pan.baidu.com/s/17TGCwMqBx2KHdcZKgrpR0Q?pwd=r2a6]
 
 -   **\[2026/07/21] Model weights is now publicly available.**
 [https://pan.baidu.com/s/1abzTBOimkcuqmJZrChhJrg?pwd=64md]
